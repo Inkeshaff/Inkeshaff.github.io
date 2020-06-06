@@ -15,12 +15,13 @@ body
 {
 margin:0;
 text-align: center;
-font-family:cursive;
+font-family: 'Courier Prime', monospace;
 background-color:#e3fdfd;
 }
 h1{
   color:white;
   font-size:3rem;
+  font-family: 'Courgette', cursive;
   margin:0;
 }
 h2
