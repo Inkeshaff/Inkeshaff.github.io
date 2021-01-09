@@ -1,0 +1,37 @@
+<html5>
+<table>
+<tr><th>District</th><th>Latitude</th><th>Longitude</th></tr>
+<tr><td>Adilabad</td><td>19.6641°N</td><td>78.5320°E</td></tr>
+<tr><td>Bhadradri Kothagudem</td><td>17.55106°N</td><td>80.61779°E</td></tr>
+<tr><td>Hyderabad</td><td>17.3850°N</td><td>78.4867°E</td></tr>
+<tr><td>Jagtial</td><td>18.7895°N</td><td>78.9120°E</td></tr>
+<tr><td>Jangaon</td><td>17.7227°N</td><td>79.1518°E</td></tr>
+<tr><td>Jayashankar  Bhulapally</td><td>18.4293°N</td><td>79.8635°E</td></tr>
+<tr><td>Jogulamba Gadwal</td><td>16.23504°N</td><td>77.79556°E</td></tr>
+<tr><td>Kamareddy</td><td>18.3205°N,</td><td>78.3370°E</td></tr>
+<tr><td>Karimnagar</td><td>18.4386°N</td><td>79.1288°E</td></tr>
+<tr><td>Khammam</td><td>17.2473°N</td><td>80.1514°E</td></tr>
+<tr><td>Komaram Bheem</td><td>19.365°N</td><td>79.274°E</td></tr>
+<tr><td>Mahabubabad</td><td>17.6026°N</td><td>80.0036°E</td></tr>
+<tr><td>Mahabubnagar</td><td>16.7488°N</td><td>78.0035°E</td></tr>
+<tr><td>Mancherial</td><td>18.8714°N</td><td>79.4443°E</td></tr>
+<tr><td>Medak</td><td>17.8716°N</td><td>78.1108°E</td></tr>
+<tr><td>Medchal–Malkajgiri</td><td>17.4139°N</td><td>78.5856°E</td></tr>
+<tr><td>Mulugu</td><td>18.1932°N</td><td>79.9414°E</td></tr>
+<tr><td>Nagarkurnool</td><td>16.4939°N</td><td>78.3102°E</td></tr>
+<tr><td>Narayanpet</td><td>16.7445°N</td><td>77.4960°E</td></tr>
+<tr><td>Nalgonda</td><td>17.0575°N</td><td>79.2684°E</td></tr>
+<tr><td>Nirmal</td><td>19.0964°N</td><td>78.3430°E</td></tr>
+<tr><td>Nizamabad</td><td>18.6725°N</td><td>78.0941°E</td></tr>
+<tr><td>Peddapalli</td><td>18.6151°N</td><td>79.3827°E</td></tr>
+<tr><td>Rajanna Sircilla</td><td>18.3866°N</td><td>78.8022°E</td></tr>
+<tr><td>Ranga Reddy</td><td>17.3891°N</td><td>77.8367°E</td></tr>
+<tr><td>Sangareddy</td><td>17.6140°N</td><td>78.0816°E</td></tr>
+<tr><td>Siddipet</td><td>18.1018°N</td><td>78.8520°E</td></tr>
+<tr><td>Suryapet</td><td>17.1314°N</td><td>79.6336°E</td></tr>
+<tr><td>Vikarabad</td><td>17.3365°N</td><td>77.9048°E</td></tr>
+<tr><td>Wanaparthy</td><td>16.3623°N</td><td>78.0622°E</td></tr>
+<tr><td>Warangal Rural</td><td>17.9744°N</td><td>79.9193°E</td></tr>
+<tr><td>Warangal Urban</td><td>17.8744°N</td><td>79.6193°E</td></tr>
+</table>
+</html5>
